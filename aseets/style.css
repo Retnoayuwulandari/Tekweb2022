@@ -297,43 +297,13 @@ h6 {
 /*--------------------------------------------------------------
   # Article
   --------------------------------------------------------------*/
-.article .box-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(5rem, 2fr));
-  gap: 1.5rem;
+.card {
+  border-radius: 30px;
 }
 
-.article .box-container .box {
-  overflow: hidden;
-  height: 90%;
-  border-radius: 5%;
-  box-shadow: white;
-  background: #fff;
-}
-
-.article .box-container .box img {
-  height: 50%;
-  width: 100%;
-  object-fit: cover;
-}
-
-.article .box-container .box .content {
-  padding: 2rem;
-}
-
-.article .box-container .box .content h3 {
-  padding: 0 0 0 60px;
-  font-size: 22px;
-  font-weight: 600;
-  margin-bottom: 5px;
-  color: #b3792e;
-}
-
-.article .box-container .box .content p {
-  line-height: 1.8;
-  color: #ad6548;
-  font-size: 1rem;
-  padding: 0.5rem 0;
+.card-img-top {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 .btn {
