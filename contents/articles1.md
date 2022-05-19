@@ -10,7 +10,7 @@ Layaknya compact powder, cukup tekan puff, kemudian aplikasikan secara merata ke
 
 dengan foundation, pemakaian cushion pada wajah biasanya tak perlu ditambah sentuhan bedak lagi.
 
-> Cushio looke
+# Cushio looke
 
 Kemasan pada produk-produk looke memang selalu hitam dan sleek, membuat produk ini memiliki kesan "high-end"
 
@@ -20,7 +20,7 @@ di rak make up dan memiliki kemasan yang kokoh. looke berkolaborasi dengan fifia
 
 pouch dengan desain khusus.
 
-> Pilihan Shade Cushion Looke
+# Pilihan Shade Cushion Looke
 
 Cushion Looke tersedia dalam tiga warna: Iris, Clio, dan Diana. Walaupunn Looke menyediakan dari terang
 
@@ -28,7 +28,7 @@ sampai yang sangat gelap, namun karena ini produk cushion, akan sangat sulit unt
 
 bila terjadi kesalahan dalam pemilihan shade warna cushion yang kurang sesuai.
 
-> Coverage Cushion Looke
+# Coverage Cushion Looke
 
 Sesuai klaimnya yang medium to full coverage, Cushion ini memang punya coverage medium yang buildable.
 
