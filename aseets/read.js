@@ -8,12 +8,13 @@ Vue.createApp({
     getMarkdownData() {
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
-      const articles = urlParams.get("articles");
+      const articles = urlParams.get("article");
       var converter = new showdown.Converter();
       console.log(article);
       axios
         .get(
-          "https://raw.githubusercontent.com/Retnoayuwulandari/tekweb2022/master/contents/" +articles
+          "https://raw.githubusercontent.com/Retnoayuwulandari/tekweb2022/master/contents/" +
+            articles
         )
         .then((res) => {
           var html = converter.makeHtml(res.data);
