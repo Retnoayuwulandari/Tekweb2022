@@ -1,6 +1,7 @@
 # CUSHION TERBAIK TANPA TRANSFER MAKE UP
 
 _Posted by Retno Ayu Wulandari_
+
 Cushion adalah base makeup portabel yang bentuknya mirip dengan bedak. Cushion hanya tersedia dalam bentuk
 
 compact saja, meski isinya creamy atau liquid. Seperti bedak, cushion dilengkapi dengan sponge atau puff.
