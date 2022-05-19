@@ -95,13 +95,13 @@
             <div class="container pt-3">
               <div class="row">
                 
-                <div class="col-md-4" v-for="data in articles">
+                <div class="col-md-4" v-for="item in articles">
                   <div class="card">
-                    <img class="card-img-top" v-bind:src="data.thumbnail" alt="">
+                    <img class="card-img-top" v-bind:src="item.thumbnail" alt="">
                     <div class="card-body">
-                      <h5 class="card-title">{{data.title}}</h5>
-                      <p class="card-text">{{data.description}}</p>
-                      <a :href="'read.html?articles='+data.content" class="btn btn-primary" role="button">Read more...</a>
+                      <h5 class="card-title">{{item.title}}</h5>
+                      <p class="card-text">{{item.description}}</p>
+                      <a :href="'read.html?articles='+item.content" class="btn btn-primary" role="button">Read more...</a>
                     </div>
                   </div>
                 </div>
