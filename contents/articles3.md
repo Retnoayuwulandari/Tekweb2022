@@ -11,7 +11,7 @@ pensil alis saja. Terdapat banyak jenis Eyebrow yaitu : Pensil Asil, Eyebrow pow
 
 Maskara, Eyebrow Tint.
 
-# Eyebrow Gel Focallure
+**Eyebrow Gel Focallure**
 
 Focallure adalah produk milik Guangzhou Jizhi Trading Co.Ltd., perusahaan yang juga menyediakan produk OEM
 
@@ -27,7 +27,7 @@ yang satu kuas dan yang satu sponge. Untuk ngambil isi produk aku pakainya yang 
 
 untuk sedikit ngeblurin sama jadi sponge concealer untuk ngerapihin alis.
 
-# Shade dan Tekstur Eyebrow Gel Focallure
+**Shade dan Tekstur Eyebrow Gel Focallure**
 
 Eyebrow gel focallure memiliki 5 shade yaitu, Auburn, Chocolate, Dark Brown, Ash Brown, Ebony. Tekstur nya
 

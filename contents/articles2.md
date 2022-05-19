@@ -14,7 +14,7 @@ lip tint, meskipun juga tidak se-pigmented lipstik. Selain itu, warna lip stain 
 
 bervariasi dibanding dengan lip tint.
 
-# Liptint Emina Glossy Stain
+**Liptint Emina Glossy Stain**
 
 Lip products dengan finish glossy, Kesan berkilau pada bibir bisa bikin tampilan kita lebih segar dan
 
@@ -26,7 +26,7 @@ punya formula easy-melt-gel yang gampang “meleleh” dan menyatu pada bibir. P
 
 tapi nggak bikin bikin bibir kering.
 
-# Pilihan Warna Pada Emina Glossy Stain
+**Pilihan Warna Pada Emina Glossy Stain**
 
 Seperti ciri khas lip tint, Emina Glossy Stain juga punya warna-warna segar yang tetap terlihat alami. Ada 5
 
@@ -36,7 +36,7 @@ buat daily. Candy Rain: pink feminin yang pasti disukai semua orang. Peach Sprin
 
 look yang natural. Spring Dazzle: rona orange yang bikin kamu tampil lebih bersemangat.
 
-# Harga Emina Glossy Stain
+**Harga Emina Glossy Stain**
 
 kualitasnya oke banget lho buat sebuah produk yang harganya hanya Rp47.500 lip tint yang nggak bikin bibir
 
