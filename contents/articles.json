@@ -4,20 +4,20 @@
     "title": "CUSHION LOOKE",
     "description": "Cushion adalah istilah yang digunakan untuk menggambarkan base makeup portabel yang bentuknya mirip dengan bedak. Namun, cushion berisi dasar makeup, seperti foundation, BB Cream, tinted moisturizer, atau CC Cream.",
     "thumbnail": "aseets/cushion.png",
-    "content": "article 1.md"
+    "content": "articles 1.md"
   },
   {
     "ID": "2",
     "title": "EMINA GLOSSY STAINS",
     "description": "lip tint adalah produk pewarna bibir yang dipopulerkan Korean beauty ke seluruh dunia. Anda yang menyukai pewarna bibir dengan sensasi ringan di bibir mungkin sudah akrab dengan produk yang satu ini. liptint banyak jenisnya.",
     "thumbnail": "aseets/liptint.png",
-    "content": "article 2.md"
+    "content": "articles 2.md"
   },
   {
     "ID": "3",
     "title": "EYEBROW FOCALLURE",
     "description": "Peralatan kosmetik yang satu ini memiliki fungsi sama seperti pensil alis, yaitu untuk menggambar dan menegaskan bentuk alis. Anda pasti sudah sangat familiar dengan pensil alis, tapi mungkin masih asing dengan eyebrow powder dan gel.",
     "thumbnail": "aseets/focallure.png",
-    "content": "article 3.md"
+    "content": "articles 3.md"
   }
 ]
