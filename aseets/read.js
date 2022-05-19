@@ -1,25 +1,23 @@
 Vue.createApp({
   data() {
     return {
-      articles: null,
+      article: null,
     };
   },
   methods: {
     getMarkdownData() {
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
-      const articles = urlParams.get("articles");
+      const article = urlParams.get("article");
       var converter = new showdown.Converter();
-      console.log(article);
       axios
         .get(
           "https://raw.githubusercontent.com/Retnoayuwulandari/tekweb2022/master/contents/" +
-            articles
+            article
         )
         .then((res) => {
           var html = converter.makeHtml(res.data);
-          this.articles = html;
-          console.log(html);
+          this.article = html;
         })
         .catch((error) => {
           console.log(error);
