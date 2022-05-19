@@ -1,6 +1,7 @@
 # EMINA GLOSSY STAIN
 
 _Posted by Retno Ayu Wulandari_
+
 lip tint bisa menjadi salah satu pilihan yang tepat untuk membuat natural look pada riasan wajahnya. Selain
 
 itu, jenis pewarna bibir ini bertekstur cukup cair. Saat memakainya, maka akan menghasilkan warna bibir alami
