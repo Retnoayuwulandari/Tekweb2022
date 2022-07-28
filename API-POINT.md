@@ -179,3 +179,8 @@ response:
 true    // if success
 false   // if failure
 ``
+## Desain Database
+
+Desain database untuk menyediakan API Points adalah sebagai berikut:
+
+![Desain database API](https://github.com/Zaydanaymar/tekweb2022/blob/main/api.drawio.png)
